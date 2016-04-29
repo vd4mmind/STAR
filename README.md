@@ -126,3 +126,5 @@ LIMITATIONS
 This release was tested with the default parameters for human and mouse genomes.
 Please contact the author for a list of recommended parameters for much larger or much smaller genomes.
 
+
+https://benchtobioinformatics.wordpress.com/2014/11/10/rnaseq-pipeline-alignment-to-de-analysis-gsea/
